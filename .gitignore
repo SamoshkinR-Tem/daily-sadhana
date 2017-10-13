@@ -1,0 +1,15 @@
+# Compiled class file
+*.class
+
+*.log
+*.iml
+
+.gradle
+.idea
+
+/local.properties
+/build
+/captures
+
+.DS_Store
+.externalNativeBuild
